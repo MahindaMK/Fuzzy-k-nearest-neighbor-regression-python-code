@@ -1,6 +1,6 @@
 # Fuzzy k-nearest neighbor regression - python code
 
-This is a simple python code for the Minkowski distance-based fuzzy k-nearest neighbor regression (Md-FKNNreg) model, 
+This is a simple python code for the Minkowski distance-based fuzzy k-nearest neighbor regression (Md-FKNNreg), 
 fuzzy k-nearest neighbor regression (FKNNreg), and k-nearest neighbor regression (KNNreg) models
 based on the article: 
 
